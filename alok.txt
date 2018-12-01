@@ -1,0 +1,12 @@
+
+
+Hello ALOK NANDA,
+
+ Your MobilePASS enrollment request has been processed and an activation link has been created.
+ Please follow next steps in Capgemini Self Portal or click directly on the activation link below from the device you want to install the MobilePASS on.
+
+https://se.safenet-inc.com/selfEnrollment/index.aspx?code=VOra2APPfJHHlUpRYOZ5V7ZCN
+
+ If the above link does not work, please copy and paste this url to your web browser.
+ Note that this link can only be used once and will expire in some days.
+
